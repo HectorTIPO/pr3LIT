@@ -17,10 +17,10 @@
             Console.WriteLine("Введите второе число");
             second = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Ответ ");
-           
-            if (znak == '-')
+
+            if (znak == '*')
             {
-                final = first - second;
+                final = first * second;
             }
 
             Console.WriteLine(final);
