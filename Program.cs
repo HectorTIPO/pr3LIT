@@ -10,18 +10,18 @@
             char znak;
 
 
-            Console.WriteLine(Введите первое число);
+            Console.WriteLine("Введите первое число");
             first = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine(Введите знак действия(+, -,,));
+            Console.WriteLine("Введите знак действия(+, -,,)");
             znak = Convert.ToChar(Console.ReadLine());
-            Console.WriteLine(Введите второе число);
+            Console.WriteLine("Введите второе число");
             second = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine(Ответ);
-            if (znak == '+')
+            Console.WriteLine("Ответ ");
+           
+            if (znak == '-')
             {
-                final = first + second;
+                final = first - second;
             }
-
 
             Console.WriteLine(final);
 
