@@ -1,0 +1,14 @@
+D:\gimatdinov@22is-1\calcul\bin\Debug\net8.0\calcul.exe
+D:\gimatdinov@22is-1\calcul\bin\Debug\net8.0\calcul.deps.json
+D:\gimatdinov@22is-1\calcul\bin\Debug\net8.0\calcul.runtimeconfig.json
+D:\gimatdinov@22is-1\calcul\bin\Debug\net8.0\calcul.dll
+D:\gimatdinov@22is-1\calcul\bin\Debug\net8.0\calcul.pdb
+D:\gimatdinov@22is-1\calcul\obj\Debug\net8.0\calcul.GeneratedMSBuildEditorConfig.editorconfig
+D:\gimatdinov@22is-1\calcul\obj\Debug\net8.0\calcul.AssemblyInfoInputs.cache
+D:\gimatdinov@22is-1\calcul\obj\Debug\net8.0\calcul.AssemblyInfo.cs
+D:\gimatdinov@22is-1\calcul\obj\Debug\net8.0\calcul.csproj.CoreCompileInputs.cache
+D:\gimatdinov@22is-1\calcul\obj\Debug\net8.0\calcul.dll
+D:\gimatdinov@22is-1\calcul\obj\Debug\net8.0\refint\calcul.dll
+D:\gimatdinov@22is-1\calcul\obj\Debug\net8.0\calcul.pdb
+D:\gimatdinov@22is-1\calcul\obj\Debug\net8.0\calcul.genruntimeconfig.cache
+D:\gimatdinov@22is-1\calcul\obj\Debug\net8.0\ref\calcul.dll
